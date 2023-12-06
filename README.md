@@ -1,5 +1,5 @@
 # frontend
 
-A new Flutter project.
+Front end flutter web project for the note taking app.
 
 ## Getting Started
